@@ -71,7 +71,7 @@ paginate: true
 Jakub Jíra - STC 2016-2018 
 CTU FEE - OI, Computer Engeneering
 [github.com/japawBlob](https://github.com/japawBlob)
-![bg right:27% 100%](../assets/me.png)
+![bg right:23% 100%](../assets/me.png)
 ## What I like?
 
 low-level programming
@@ -86,7 +86,7 @@ Beer
 Jakub Jíra - STC 2016-2018 
 CTU FEE / ČVUT FEL - OI
 [github.com/japawBlob](https://github.com/japawBlob)
-![bg right:27% 100%](../assets/me.png)
+![bg right:23% 100%](../assets/me.png)
 
 <!--
 # Systems languages:
@@ -116,7 +116,7 @@ Linux
 Jakub Jíra - STC 2016-2018 
 CTU FEE / ČVUT FEL - OI
 [github.com/japawBlob](https://github.com/japawBlob)
-![bg right:27% 100%](../assets/me.png)
+![bg right:23% 100%](../assets/me.png)
 
 <!--
 # C#
@@ -133,7 +133,7 @@ A pár otazníčků na konec, protože jsem si jistý, že během přednášky p
 ## What I ***can't*** give you inside about?
 
 C#
-Web developement
+Web development
 ???
 
 ---
@@ -151,7 +151,7 @@ Abstrakce - v programování něco žádoucího.
 1) Quick history
    From different architectures to unified code.
 2) Current technologies in use
-    New methods and techniques in use and developement.
+    New methods and techniques in use and development.
 3) Future?
 4) Freestyle!
 
@@ -174,7 +174,7 @@ How does CPU manipulate data? Trough registers.
 add x0, x1, x2     # x0 = x1+x2
 ```
 
-It also is abstraction - from direct code.
+It also is an abstraction - from direct code.
 
 ```
 0000 0000 0010 0010 0000 0000 0010 0000
@@ -220,7 +220,7 @@ C hodně málo pomáhá a nedělá věci za vás - pokud chcete paměť, musíte
 
 Nechá vás udělat spoustu věcí, které skončí nedefinovaně, nebo přímo škodlivě - bezpečnostní riziko.
 -->
-Not really human centric
+Not really human-centric
 Quite a mess in beginings
 
 ---
@@ -233,9 +233,9 @@ Teorie dobrá, praxe pokulhává.
 -->
 # Interpretation > Compiling
 
-Create virtual machine for each architecture
+Create a virtual machine for each architecture
 
-Create code for virtual machie
+Create code for virtual machine
 
 Runs everywhere! -> Happy developer
 
@@ -273,7 +273,7 @@ Drag and drop visual interface
 
 Pros: Fast to catch up, easy to understand
 
-Cons: Locks you into platform, lower control
+Cons: Locks you into a platform, lower control
 
 Microsoft chatbot creation...
 
@@ -309,7 +309,7 @@ Create code in *ANY* language
 
 Faster ~~alternative~~ for JavaScript
 
-Bytecode run in browser.
+Bytecode runs in browser.
 
 ---
 
